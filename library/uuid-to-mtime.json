@@ -232,12 +232,12 @@
   "4734c20c-0db8-4eb2-92ea-e692f4d70934": {
     "asset": 1526312664279,
     "meta": 1526312664276,
-    "relativePath": "Scene/Script"
+    "relativePath": "Script"
   },
   "2d2f792f-a40c-49bb-a189-ed176a246e49": {
-    "asset": 1526312664282,
-    "meta": 1526312671310,
-    "relativePath": "Scene/helloworld.fire"
+    "asset": 1526314904460,
+    "meta": 1526314904469,
+    "relativePath": "Scene/LoadScene.fire"
   },
   "7b81d4e8-ec84-4716-968d-500ac1d78a54": {
     "asset": 1526312664280,
@@ -246,8 +246,8 @@
   },
   "e1b90feb-a217-4493-849d-9a611900d683": {
     "asset": 1526312664282,
-    "meta": 1526312671322,
-    "relativePath": "Scene/Script/Helloworld.ts"
+    "meta": 1526314114689,
+    "relativePath": "Script/LoadScene.ts"
   },
   "a8027877-d8d6-4645-97a0-52d4a0123dba": {
     "asset": 1526312664283,
@@ -258,5 +258,10 @@
     "asset": 1526312664283,
     "meta": 1526312671367,
     "relativePath": "Texture/HelloWorld.png"
+  },
+  "e0ccea4b-9edf-4401-bb96-ca050311465e": {
+    "asset": 1526316144794,
+    "meta": 1526316144815,
+    "relativePath": "Scene/GameScene.fire"
   }
 }

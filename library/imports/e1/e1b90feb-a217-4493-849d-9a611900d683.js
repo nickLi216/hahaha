@@ -1,6 +1,6 @@
 "use strict";
-cc._RF.push(module, 'e1b90/rohdEk4SdmmEZANaD', 'Helloworld');
-// Script/Helloworld.ts
+cc._RF.push(module, 'e1b90/rohdEk4SdmmEZANaD', 'LoadScene');
+// Script/LoadScene.ts
 
 Object.defineProperty(exports, "__esModule", { value: true });
 var _a = cc._decorator, ccclass = _a.ccclass, property = _a.property;
