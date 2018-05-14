@@ -1,0 +1,52 @@
+2018-05-14T15:45:46.110Z - normal: Load ~/.CocosCreator/settings.json
+2018-05-14T15:45:46.114Z - normal: checking language setting...
+2018-05-14T15:45:46.114Z - normal: Language: zh
+2018-05-14T15:45:46.819Z - success: protocol editor-framework registered
+2018-05-14T15:45:46.819Z - success: protocol app registered
+2018-05-14T15:45:46.819Z - success: protocol theme registered
+2018-05-14T15:45:46.819Z - success: protocol packages registered
+2018-05-14T15:45:46.820Z - success: protocol unpack registerred
+2018-05-14T15:45:46.820Z - success: protocol disable-commonjs registerred
+2018-05-14T15:45:46.967Z - normal: connected!
+2018-05-14T15:45:46.968Z - normal: Check project /Users/lijiang/myGit/nhwc
+2018-05-14T15:45:46.970Z - normal: Initializing Cocos2d
+2018-05-14T15:45:47.171Z - normal: Initializing Asset Database
+2018-05-14T15:45:47.204Z - success: protocol uuid registerred
+2018-05-14T15:45:47.204Z - success: protocol db registerred
+2018-05-14T15:45:47.205Z - success: protocol thumbnail registerred
+2018-05-14T15:45:47.205Z - normal: Loading editor/builtin packages
+2018-05-14T15:45:47.225Z - success: anysdk loaded
+2018-05-14T15:45:47.384Z - success: assets loaded
+2018-05-14T15:45:47.388Z - success: builder loaded
+2018-05-14T15:45:47.391Z - success: cocos-analytics loaded
+2018-05-14T15:45:47.398Z - success: console loaded
+2018-05-14T15:45:47.403Z - success: hierarchy loaded
+2018-05-14T15:45:47.409Z - success: inspector loaded
+2018-05-14T15:45:47.411Z - success: keystore loaded
+2018-05-14T15:45:47.417Z - success: node-library loaded
+2018-05-14T15:45:47.419Z - success: package-asset loaded
+2018-05-14T15:45:47.422Z - success: preferences loaded
+2018-05-14T15:45:47.427Z - success: project-exporter loaded
+2018-05-14T15:45:47.449Z - success: project-importer loaded
+2018-05-14T15:45:47.454Z - success: project-settings loaded
+2018-05-14T15:45:47.459Z - success: ui-kit loaded
+2018-05-14T15:45:47.465Z - success: ui-grid loaded
+2018-05-14T15:45:47.471Z - success: scene loaded
+2018-05-14T15:45:47.473Z - success: sprite-editor loaded
+2018-05-14T15:45:47.490Z - success: store loaded
+2018-05-14T15:45:47.498Z - success: timeline loaded
+2018-05-14T15:45:47.498Z - normal: Loading builtin packages
+2018-05-14T15:45:47.503Z - success: asset-db-debugger loaded
+2018-05-14T15:45:47.504Z - success: color-picker loaded
+2018-05-14T15:45:47.509Z - success: package-manager loaded
+2018-05-14T15:45:47.516Z - success: sdkbox loaded
+2018-05-14T15:45:47.521Z - success: tester loaded
+2018-05-14T15:45:47.527Z - success: ui-kit-preview-extra loaded
+2018-05-14T15:45:47.531Z - success: ui-kit-preview loaded
+2018-05-14T15:45:47.535Z - success: ui-tree loaded
+2018-05-14T15:45:48.580Z - normal: Initializing project /Users/lijiang/myGit/nhwc
+2018-05-14T15:45:48.582Z - normal: Loading packages
+2018-05-14T15:45:48.588Z - normal: Watching packages
+2018-05-14T15:45:48.601Z - normal: Run Application
+2018-05-14T15:45:49.060Z - success: preview server running at http://localhost:7456
+2018-05-14T15:45:54.048Z - normal: 1.8.2
